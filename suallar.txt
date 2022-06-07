@@ -1,0 +1,20 @@
+1) JVM nedir?
+2) Java'nin diger dillerden ferqi
+3) void funk nedir?
+4) Deyishenlerin tipi
+5) Muqaiseler oop
+6) ArrayList<> nedir?
+7) ArrayList<> vs Array[]
+8) access modifier
+9) static vs non-static
+10) 3 parametrli method
+11) ovveride methods and classes,
+    method adi eyni olub parametleri ferqli olan
+12) Class'dan object yaradib Array[]-a atmaq
+13) Class'dan object yaradib ArrayList<>-e atmaq
+14) Interfaceler duzelib bu interfaceleri implements eden class duzeltmek
+15) Getter & Setter
+16) 3 dene class yaratmaq. 1-ci class 2-ci den miras alsin, 3-cu de 2-ci den miras alsin. Daha sonra bir obyekt yaradib istifade edeciyik
+17) Scanner
+18) DataBaseye qoshulub her hansi bir SQL neticesini ekrana chixartmaq
+19) Icherisinde method olan Abstract class yaratmaq daha sonra abstract class istinad eden 2  class yaradin
